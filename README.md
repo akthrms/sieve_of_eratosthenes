@@ -1,1 +1,1 @@
-# sieve_of_eratosthenes
+# エラトステネスの篩
